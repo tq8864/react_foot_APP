@@ -1,0 +1,88 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+.banner li{display:inline-block;}
+.swipe {
+	
+		overflow: hidden;
+		visibility: hidden;
+		position: relative;
+	}
+	.swipe-wrap {
+		overflow: hidden;
+		position: relative;
+	}
+	.swipe-wrap > div {
+		float:left;
+		width:100%;
+		position: relative;
+	}
+	img{
+		width:100%;
+	}
+.am-icon-cart-plus:before {content: "\f217";}
+.car_:before {
+    display: inline-block;
+    font: normal normal normal 1.6rem/1 FontAwesome,sans-serif;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transform: translate(0,0);
+    -ms-transform: translate(0,0);
+    transform: translate(0,0);
+}
+.home .am-slides{height:24.1rem}
+li{ list-style-type: none;}
+.am-slider-default .am-control-nav{ display: none;}
+.am-slider-default{ margin: 0;}
+/* "积分菜品"的样式 */
+.nav{ overflow: hidden; background: #fafafa; padding: 1rem 0;display:flex;}
+.nav li{float: left; width: 25%; text-align: center;}
+.nav li a{ color: #666;}
+.nav li img{ width: 50%;}
+.nav li p{ font-size: 1.5rem;}
+.am-navbar-default .am-navbar-nav{ background: #fff;}
+/* "开启你的美食之旅"的样式 */
+.search{display: block; width: 90%; height: 3.5rem; line-height: 3.5rem; text-indent: 1rem; position: absolute; left: 5%; top:18rem; background: url('../../img/search.png') no-repeat; background-size:100% 100%;}
+/*  */
+.title .am-titlebar-title{color: #f60;}
+.title  .am-titlebar-title:before{border-left: 3px solid #f60;}
+.am-titlebar-default a{color: #f60;}
+/*  */
+.product{ background: #fff; overflow: hidden;}
+.product .am-gallery-desc em{ float: left; font-style: normal; font-size: 1.5rem; color: #f60;}
+.product .am-gallery-desc i{ float: right; font-size: 1.5rem;}
+
+.am-avg-sm-2>li{width:50%}li{width:50%}
+[class*=am-avg-]>li{display:block;height:auto;float:left}
+.am-avg-sm-2>li:nth-of-type(2n+1){clear:both}
+.am-slides{
+	height: 3.5rem;
+}
+
+
+.search-input{ width: 94%; margin: 15px 3%;}
+.search-input input{ width: 100%; line-height: 40px; border-radius: 5px; border: 1px solid #eee; text-indent: 10px;}
+.search {
+    display: block;
+    width: 90%;
+    height: 3.5rem;
+    line-height: 3.5rem;
+    text-indent: 1rem;
+    position: absolute;
+    left: 5%;
+    top: 18rem;
+    background: url('../../img/search.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+

@@ -1,0 +1,14 @@
+.text span {
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+.text input {
+    width: 80%;
+    height: 42px;
+    font-family: "Microsoft Yahei", "Calibri";
+    border: 0;
+    float: left;
+    text-indent: 20px;
+}
